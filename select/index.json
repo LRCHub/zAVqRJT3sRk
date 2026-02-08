@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "子供じゃないもん17",
+  "base_artist": "大森靖子",
+  "createdAt": "2026-02-08T13:11:53.514734Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "子供じゃないもん17",
+      "artist": "Seiko Oomori",
+      "has_synced": false,
+      "path": "select/01_子供じゃないもん17_Seiko_Oomori.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "子供じゃないもん17",
+      "artist": "Seiko Oomori",
+      "has_synced": true,
+      "path": "select/02_子供じゃないもん17_Seiko_Oomori.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "子供じゃないもん17 - Kodomo ja nai monn 17",
+      "artist": "Seiko Oomori",
+      "has_synced": true,
+      "path": "select/03_子供じゃないもん17_-_Kodomo_ja_nai_monn_17_Seiko_Oomori.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "子供じゃないもん17",
+      "artist": "大森靖子",
+      "has_synced": false,
+      "path": "select/pl_01_子供じゃないもん17_大森靖子.txt"
+    }
+  ]
+}
